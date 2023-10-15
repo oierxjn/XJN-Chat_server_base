@@ -1,7 +1,7 @@
 # XJN-Chat_server_base
 A chat server made by `oierxjn`
 
-It requires a Python 3 environment to run.
+It requires `Python 3` environment to run.
 
 As mentioned in the file,it's my first project.
 
